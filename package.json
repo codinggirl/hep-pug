@@ -1,0 +1,34 @@
+{
+  "name": "hep-pug",
+  "version": "0.0.1",
+  "description": "pug middleware for Hep or Koa",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codinggirl/hep.git"
+  },
+  "keywords": [
+    "hep",
+    "rose",
+    "koa",
+    "koa-cms",
+    "cms",
+    "middleware",
+    "middle",
+    "rose",
+    "egg",
+    "eggjs"
+  ],
+  "author": "Richard Libre",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/codinggirl/hep-pug/issues"
+  },
+  "homepage": "https://github.com/codinggirl/hep-pug#readme",
+  "dependencies": {
+    "pug": "^2.0.0-rc.4"
+  }
+}
