@@ -197,9 +197,7 @@ app.use(router.allowedMethods())
 
 ## 更新记录
 
-### v1.1
-
-- 增加 `view` 方法 
+请参阅[版本记录](./doc/zh-CN/history.md)
 
 ## 授权协议
 
