@@ -8,7 +8,7 @@
     "test-cov": "jest --coverage --runInBand --forceExit"
   },
   "repository": {
-    "type": "git",git
+    "type": "git",
     "url": "git+https://github.com/codinggirl/hep.git"
   },
   "keywords": [
