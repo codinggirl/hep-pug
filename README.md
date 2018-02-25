@@ -4,13 +4,11 @@
 
 Pug middleware for Hep or Koa.
 
+[![NPM](https://nodei.co/npm/hep-pug.png)](https://nodei.co/npm/hep-pug/)
+
 ## Update history
 
-### v1.1
-
-- add `view` method.
- 
- Now give you the ability to set customer view path for each sub logic modules, and write less code.
+See [Version History](./doc/en/history.md).
 
 ## LICENSE
 

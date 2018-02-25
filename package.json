@@ -1,13 +1,14 @@
 {
   "name": "hep-pug",
-  "version": "1.1.4",
+  "version": "1.1.5",
   "description": "pug middleware for Hep or Koa",
   "main": "lib/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest",
+    "test-cov": "jest --coverage --runInBand --forceExit"
   },
   "repository": {
-    "type": "git",
+    "type": "git",git
     "url": "git+https://github.com/codinggirl/hep.git"
   },
   "keywords": [
@@ -31,5 +32,19 @@
   "homepage": "https://github.com/codinggirl/hep-pug#readme",
   "dependencies": {
     "pug": "^2.0.0-rc.4"
+  },
+  "devDependencies": {
+    "jest": "^22.4.2"
+  },
+  "jest": {
+    "testMatch": [
+      "**/test/*.js"
+    ],
+    "coverageReporters": [
+      "text-summary",
+      "lcov"
+    ],
+    "bail": true,
+    "testEnvironment": "node"
   }
 }
