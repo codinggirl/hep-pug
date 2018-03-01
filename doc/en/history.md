@@ -1,5 +1,9 @@
 # Version History
 
+## 1.2.0
+
+- add `ctx.state` to the default view locals
+
 ## 1.1
 
 - add `view` method.
