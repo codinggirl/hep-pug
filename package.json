@@ -1,6 +1,6 @@
 {
   "name": "hep-pug",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "A pug middleware for Hep or Koa that let render views easier",
   "main": "lib/index.js",
   "scripts": {
@@ -31,6 +31,7 @@
   },
   "homepage": "https://github.com/codinggirl/hep-pug#readme",
   "dependencies": {
+    "debug": "^3.1.0",
     "pug": "^2.0.0-rc.4"
   },
   "devDependencies": {
