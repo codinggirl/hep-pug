@@ -27,7 +27,7 @@ describe('config object', function () {
     })
     
     it('should have view.basePath', () => {
-        expect(config.view.basePath).toBeDefined()
+        expect(config.view.basePath).toBeUndefined()
     })
     
     it('should have view.extName option', function () {
