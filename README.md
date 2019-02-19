@@ -9,7 +9,7 @@ Please see documentation for detail.
 [简体中文](./doc/zh-hans/README.md)
 
 
-[![NPM](https://nodei.co/npm/hep-pug.png)](https://nodei.co/npm/hep-pug/)
+[![NPM](https://nodei.co/npm/hep-pug.png)](https://nodei.co/npm/hep-pug/) [![Greenkeeper badge](https://badges.greenkeeper.io/codinggirl/hep-pug.svg)](https://greenkeeper.io/)
 
 ## LICENSE
 
